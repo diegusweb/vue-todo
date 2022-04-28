@@ -1,4 +1,4 @@
-# testspa
+# vue-todo
 
 ## Project setup
 ```
